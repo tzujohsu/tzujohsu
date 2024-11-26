@@ -2,7 +2,7 @@
 
 <h2> About Me : </h2>
 
-🎓 I am currently pursuing a Masters Degree in Data Science at [__University of Michigan -Ann Arbor__](https://lsa.umich.edu/stats/masters_students/mastersprograms/data-science-masters-program.html). My undergraduate studies at National Yang Ming Chiao Tung University provided me with a foundation in both finance and technology.
+🎓 I am currently pursuing a Masters Degree in Data Science at [__University of Michigan -Ann Arbor__](https://lsa.umich.edu/stats/masters_students/mastersprograms/data-science-masters-program.html). My undergraduate studies at National Yang Ming Chiao Tung University provided me with a foundation in both finance and information science.
 
 💼 I have *2+ years* of data relevant internship/co-op/research assitant experience working with data science and machine learning.
 
