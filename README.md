@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Tzu-Jo (Jocelyn) Hsu
+## Hi there 👋 I'm Jocelyn (Tzu-Jo) Hsu
 
 ### About Me :
 
