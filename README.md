@@ -8,7 +8,7 @@
 
 I'm a self-motivated learner with a deep passion for data science and machine learning. I constantly seek out new challenges and opportunities to expand my expertise, whether through working on innovative projects💡, exploring the latest research📚, or mastering advanced tools and techniques 🛠️.
 
-📚 I'm currently a Graduate Student Instructor for the course [Information Retrieval (SI650/EECS549)](https://www.si.umich.edu/programs/courses/650) at UMSI. In this role, I lead engaging weekly discussions 💬, design comprehensive course assignments 📝, and hold office hours to assist students with their questions and concerns ❓.
+📚 I was a Graduate Student Instructor for the course [Information Retrieval (SI650/EECS549)](https://www.si.umich.edu/programs/courses/650) at UMSI in Fall 2024. In this role, I led engaging weekly discussions 💬, designed comprehensive course assignments 📝, and held office hours to assist students with their questions and concerns ❓.
 
 🔭 Here are the companies where I have acquired valuable data-related experience:
  
