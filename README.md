@@ -23,28 +23,16 @@ Here you'll find a collection of projects that reflect my journey and growth in 
 
 <h2 align = "center"> 🔮 My Generative AI/LLM Projects </h2> 
 
-⏩ [__Fast Inference of LLMs via Speculative Decoding__](https://github.com/tzujohsu/LLM_speculative_decoding_evaluation) 
-
-* Oiginal infernece of attention is inefficient, this project implements Speculative Decoding and Big Little Decoder (BiLD) algorithms to perform acceleration.
-* Conducted experimentations with different decoding approaches, demonstrating its efficacy across various models and size ranges in tasks like multi-turn conversation, translation, RAG, and question-answering (QA).
-
-🚧 [__finance-podcast-RAG (ongoing)__](https://github.com/tzujohsu/finance-podcast-RAG) 
-
-* This side-project aims to build a Retrieval-Augmented Generation (RAG) system that provides financial market insight, utilizing Whisper-transcribed financial-related podcasts.
-* The goal is to provide users (ME!) with a valuable tool for financial knowledge extraction and insights.
-
-⏩ [__Local LLM with RAG__](https://github.com/tzujohsu/local-llm-RAG) 
-
-* This placeholder is designed to quickly set up Ollama and conduct a proof of concept (POC) by launching a Retrieval-Augmented Generation (RAG) system using Large Language Models (LLMs) on my local laptop.
+| Project | Description |
+|---------|-------------|
+| <img src="img/fast-inference.png" width="300"> | 🔷 [__Fast Inference of LLMs via Speculative Decoding__](https://github.com/tzujohsu/LLM_speculative_decoding_evaluation) <br><br> * Original inference of attention is inefficient, this project implements Speculative Decoding and Big Little Decoder (BiLD) algorithms to perform acceleration. <br> * Conducted experimentations with different decoding approaches, demonstrating its efficacy across various models and size ranges in tasks like multi-turn conversation, translation, RAG, and question-answering (QA). |
+| <img src="img/finance-rag.png" width="300"> | 🚧 [__finance-podcast-RAG (ongoing)__](https://github.com/tzujohsu/finance-podcast-RAG) <br><br> * This side-project aims to build a Retrieval-Augmented Generation (RAG) system that provides financial market insight, utilizing Whisper-transcribed financial-related podcasts. * The goal is to provide users (ME!) with a valuable tool for financial knowledge extraction and insights. |
+| <img src="img/local-llm.png" width="300"> | 🔷 [__Local LLM with RAG__](https://github.com/tzujohsu/local-llm-RAG) * This placeholder is designed to quickly set up Ollama and conduct a proof of concept (POC) by launching a Retrieval-Augmented Generation (RAG) system using Large Language Models (LLMs) on my local laptop. |
 
 
 <h2 align = "center"> 🖥 My Computer Vision/Audio Projects </h2> 
 
-⏩ [__Scene Text Recognition for Jersey Number Identification__](https://github.com/tzujohsu/soccernet-jersey-number-recognition) 
-* Jersey number recognition is crucial for enhancing sports analytics, aiding in accurate player tracking and identification. Challenges such as player occlusion, multiple players, and blurry images complicate this task.
-* Our approach utilizes a two-step method: (1) Using a detector to find jersey numbers, (2) A recognizer to accurately identify these numbers.
-
-⏩ [__Audio Deepfake Detection with LCNN__](https://github.com/tzujohsu/audio-deepfake-detection)
-* The misuse of the latest powerful generative algorithms poses a threat to individuals and society, as public opinion can be swayed through the spread of modified content, especially deepfaked audio. 
-* In this project, we developed a detection system using LCNN with self-Attentive Pooling layer to distinguish between bonafide and spoofed audio.
-
+| Project | Description |
+|---------|-------------|
+| <img src="img/scene-text-recog.png" width="300"> | 🔷 [__Scene Text Recognition for Jersey Number Identification__](https://github.com/tzujohsu/soccernet-jersey-number-recognition) <br><br> * Jersey number recognition is crucial for enhancing sports analytics, aiding in accurate player tracking and identification. Challenges such as player occlusion, multiple players, and blurry images complicate this task. * Our approach utilizes a two-step method: (1) Using a detector to find jersey numbers, (2) A recognizer to accurately identify these numbers. |
+| <img src="img/audio-deepfake.png" width="300"> | 🔷 [__Audio Deepfake Detection with LCNN__](https://github.com/tzujohsu/audio-deepfake-detection) * The misuse of the latest powerful generative algorithms poses a threat to individuals and society, as public opinion can be swayed through the spread of modified content, especially deepfaked audio. * In this project, we developed a detection system using LCNN with self-Attentive Pooling layer to distinguish between bonafide and spoofed audio. |
