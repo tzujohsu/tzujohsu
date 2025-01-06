@@ -21,6 +21,13 @@ I'm a self-motivated learner with a deep passion for data science and machine le
 Here you'll find a collection of projects that reflect my journey and growth in various fields in Data Science, including Predictive Modeling, Data Analysis, Natural Language Processing (NLP), Computer Vision (CV), Information Retrieval/Recommender Systems.
 
 
+<h2 align = "center"> 📈 My Predictive Modeling/Forecasting Projects </h2> 
+
+| Project | Description |
+|---------|-------------|
+| <img src="img/rohlik.png" width="300"> | 🔷 [__Rohlik Orders Forecasting__](https://github.com/tzujohsu/Rohlik-Orders-Forecasting) <br><br> * This project addresses challenges in the e-grocery industry: accurately predicting order volumes for Rohlik Group. The goal is to forecast the number of grocery delivery orders for selected warehouses over a 60-day period. |
+| <img src="img/rossmann.png" width="300"> | 🔷 [__Rossmann Sales Data Prediction__](https://github.com/tzujohsu/Rossman-Sales-Data-Prediction) <br><br> * This project aims to forecast daily sales for Rossmann drug stores across Germany using historical sales, promotion, competitor data for 1,115 Rossmann stores store. |
+
 <h2 align = "center"> 🔮 My Generative AI/LLM Projects </h2> 
 
 | Project | Description |
@@ -28,13 +35,6 @@ Here you'll find a collection of projects that reflect my journey and growth in 
 | <img src="img/fast-inference.png" width="300"> | 🔷 [__Fast Inference of LLMs via Speculative Decoding__](https://github.com/tzujohsu/LLM_speculative_decoding_evaluation) <br><br> * Original inference of attention is inefficient, this project implements Speculative Decoding and Big Little Decoder (BiLD) algorithms to perform acceleration. <br> * Conducted experimentations with different decoding approaches, demonstrating its efficacy across various models and size ranges in tasks like multi-turn conversation, translation, RAG, and question-answering (QA). |
 | <img src="img/finance-rag.png" width="300"> | 🚧 [__finance-podcast-RAG (ongoing)__](https://github.com/tzujohsu/finance-podcast-RAG) <br><br> * This side-project aims to build a Retrieval-Augmented Generation (RAG) system that provides financial market insight, utilizing Whisper-transcribed financial-related podcasts. <br> * The goal is to provide users (ME!) with a valuable tool for financial knowledge extraction and insights. |
 | <img src="img/local-llm.png" width="300"> | 🔷 [__Local LLM with RAG__](https://github.com/tzujohsu/local-llm-RAG) <br><br> * This placeholder is designed to quickly set up Ollama and conduct a proof of concept (POC) by launching a Retrieval-Augmented Generation (RAG) system using Large Language Models (LLMs) on my local laptop. |
-
-<h2 align = "center"> 📈 My Predictive Modeling/Forecasting Projects </h2> 
-
-| Project | Description |
-|---------|-------------|
-| <img src="img/rohlik.png" width="300"> | 🔷 [__Rohlik Orders Forecasting__](https://github.com/tzujohsu/Rohlik-Orders-Forecasting) <br><br> * This project addresses challenges in the e-grocery industry: accurately predicting order volumes for Rohlik Group. The goal is to forecast the number of grocery delivery orders for selected warehouses over a 60-day period. |
-| <img src="img/rossmann.png" width="300"> | 🔷 [__Rossmann Sales Data Prediction__](https://github.com/tzujohsu/Rossman-Sales-Data-Prediction) <br><br> * This project aims to forecast daily sales for Rossmann drug stores across Germany using historical sales, promotion, competitor data for 1,115 Rossmann stores store. |
 
 
 <h2 align = "center"> 🖥 My Computer Vision/Audio Projects </h2> 
