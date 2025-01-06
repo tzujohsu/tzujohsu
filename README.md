@@ -49,8 +49,8 @@ Here you'll find a collection of projects that reflect my journey and growth in 
 ..Coming soon..
 
 <h2 align = "center"> 👾 Miscellaneous </h2> 
+
 | Project | Description |
 |---------|-------------|
-| <img src="img/harddrive.png" width="300"> | 🔷 [__Survival analysis and lifespan modeling for Hard disk drives__](https://github.com/tzujohsu/backblaze-survival-analysis) <br><br> * Conducted survival analysis on the BackBlaze hard drive failure data from 2016-2023, identifying factors for failure risks. <br> * Employed Kaplan-Meier and Cox regression models to evaluate reliability across manufacturers and drive capacities.
- |
+| <img src="img/harddrive.png" width="300"> | 🔷 [__Survival analysis and lifespan modeling for Hard disk drives__](https://github.com/tzujohsu/backblaze-survival-analysis) <br><br> * Conducted survival analysis on the BackBlaze hard drive failure data from 2016-2023, identifying factors for failure risks. <br> * Employed Kaplan-Meier and Cox regression models to evaluate reliability across manufacturers and drive capacities.|
 | <img src="img/flight.png" width="300"> | 🔷 [__Exploratory Data Analysis on 2023 US domestic Flight statistics__](https://github.com/tzujohsu/commercial-air-travel-US-EDA) <br><br> * This report examines the primary factors behind flight delays and cancellations, as well as passenger, freight and mail traffic patterns in the US domestic flight sector for 2023. <br> * Through exploratory data analysis of US domestic flight data, the study identifies significant trends and provide insights for strategic decision-making.  |
