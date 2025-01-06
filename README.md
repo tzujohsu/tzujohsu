@@ -21,7 +21,7 @@ I'm a self-motivated learner with a deep passion for data science and machine le
 Here you'll find a collection of projects that reflect my journey and growth in various fields in Data Science, including Predictive Modeling, Data Analysis, Natural Language Processing (NLP), Computer Vision (CV), Information Retrieval/Recommender Systems.
 
 
-<h2 align = "center"> My Generative AI/LLM Projects </h2> 
+<h2 align = "center"> 🔮 My Generative AI/LLM Projects </h2> 
 
 ⏩ [__Fast Inference of LLMs via Speculative Decoding__](https://github.com/tzujohsu/LLM_speculative_decoding_evaluation) 
 
