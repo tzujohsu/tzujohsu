@@ -25,7 +25,7 @@ Here you'll find a collection of projects that reflect my journey and growth in 
 
 | Project | Description |
 |---------|-------------|
-| <img src="img/rohlik.png" width="300"> | 🔷 [__Rohlik Orders Forecasting__](https://github.com/tzujohsu/Rohlik-Orders-Forecasting) <br><br> * This project addresses challenges in the e-grocery industry: accurately predicting order volumes for Rohlik Group. The goal is to forecast the number of grocery delivery orders for selected warehouses over a 60-day period. |
+| <img src="img/rohlik.png" width="300"> | 🔷 [__Rohlik Orders Forecasting__](https://github.com/tzujohsu/Rohlik-Orders-Forecasting) <br><br> * This project aims to accurately predicting order volumes for Rohlik Group (e-grocery industry). It forecasts the number of grocery delivery orders for selected warehouses over a 60-day period. |
 | <img src="img/rossmann.png" width="300"> | 🔷 [__Rossmann Sales Data Prediction__](https://github.com/tzujohsu/Rossman-Sales-Data-Prediction) <br><br> * This project aims to forecast daily sales for Rossmann drug stores across Germany using historical sales, promotion, competitor data for 1,115 Rossmann stores store. |
 
 <h2 align = "center"> 🔮 My Generative AI/LLM Projects </h2> 
