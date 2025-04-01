@@ -35,7 +35,7 @@ Here you'll find a collection of projects that reflect my journey and growth in 
 
 | Project | Description |
 |---------|-------------|
-| <img src="img/topic.png" width="350"> | 🔷 [__Multi-Label Content Categorization System__](https://jocelynhsu.streamlit.app/news-categorization) <br><br> * Trained and deployed a news categorization tool to enable reliable classification of the latest information. This tool can be extended to classify other content types, such as social media posts and podcast transcripts, enhancing predictive insights across platforms. |
+| <img src="img/topic.png" width="350"> | 🔷 [__Multi-Label Content Categorization System__](https://jocelynhsu.streamlit.app/mlb-categorization) <br><br> * Trained and deployed a news categorization tool to enable reliable classification of the latest information. This tool can be extended to classify other content types, such as social media posts and podcast transcripts, enhancing predictive insights across platforms. |
 
 <h2 align = "center"> 🖥 My Computer Vision/Audio Projects </h2> 
 
