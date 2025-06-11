@@ -2,19 +2,13 @@
 
 ### About Me :
 
-💼 I have *2+ years* of data relevant internship/co-op/research assitant experience working with data science and machine learning.
+💼 I have *2+ years* experience in data and developer role across the marketing and finance sectors.
 
 I'm a self-motivated learner with a deep passion for data science and machine learning. I constantly seek out new challenges and opportunities to expand my expertise, whether through working on innovative projects💡, exploring the latest research📚, or mastering advanced tools and techniques 🛠️.
 
-🔭 Here are the companies where I have acquired valuable data-related experience:
- 
-* *Rocket Comapnies -Amrock LLC*
-* *Growth Marketing (SEO and Marketing startup)*
-* *NYCU Fintech Lab & Neuberger Berman*
-
 ### My Portfolio Overview:
 
-Here you'll find a collection of projects that reflect my journey and growth in various fields in Data Science, including Predictive Modeling, Data Analysis, Natural Language Processing (NLP), Computer Vision (CV).
+Here you'll find a collection of projects that reflect my journey and growth in various fields, including Predictive Modeling, Data Analysis, Natural Language Processing (NLP), Computer Vision (CV).
 
 
 <h2 align = "center"> 📈 My Predictive Modeling/Forecasting Projects </h2> 
