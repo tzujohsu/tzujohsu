@@ -11,13 +11,6 @@ I'm a self-motivated learner with a deep passion for data science and machine le
 Here you'll find a collection of projects that reflect my journey and growth in various fields, including Predictive Modeling, Data Analysis, Natural Language Processing (NLP), Computer Vision (CV).
 
 
-<h2 align = "center"> 📈 My Predictive Modeling/Forecasting Projects </h2> 
-
-| Project | Description |
-|---------|-------------|
-| <img src="img/rohlik.png" width="300"> | 🔷 [__Rohlik Orders Forecasting__](https://github.com/tzujohsu/Rohlik-Orders-Forecasting) <br><br> * This project aims to accurately predicting order volumes for Rohlik Group (e-grocery industry). It forecasts the number of grocery delivery orders for selected warehouses over a 60-day period. |
-| <img src="img/rossmann.png" width="300"> | 🔷 [__Rossmann Sales Data Prediction__](https://github.com/tzujohsu/Rossman-Sales-Data-Prediction) <br><br> * This project aims to forecast daily sales for Rossmann drug stores across Germany using historical sales, promotion, competitor data for 1,115 Rossmann stores store. |
-
 <h2 align = "center"> 🔮 My Generative AI/LLM Projects </h2> 
 
 | Project | Description |
@@ -37,6 +30,13 @@ Here you'll find a collection of projects that reflect my journey and growth in 
 |---------|-------------|
 | <img src="img/scene-text-recog.png" width="350"> | 🔷 [__Scene Text Recognition for Jersey Number Identification__](https://github.com/tzujohsu/soccernet-jersey-number-recognition) <br><br> * Jersey number recognition is crucial for enhancing sports analytics, aiding in accurate player tracking and identification. Challenges such as player occlusion, multiple players, and blurry images complicate this task. * Our approach utilizes a two-step method: (1) Using a detector to find jersey numbers, (2) A recognizer to accurately identify these numbers. |
 | <img src="img/audio-deepfake.png" width="350"> | 🔷 [__Audio Deepfake Detection with LCNN__](https://github.com/tzujohsu/audio-deepfake-detection) <br><br> * The misuse of the latest powerful generative algorithms poses a threat to individuals and society, as public opinion can be swayed through the spread of modified content, especially deepfaked audio. <br> * In this project, we developed a detection system using LCNN with self-Attentive Pooling layer to distinguish between bonafide and spoofed audio. |
+
+<h2 align = "center"> 📈 My Predictive Modeling/Forecasting Projects </h2> 
+
+| Project | Description |
+|---------|-------------|
+| <img src="img/rohlik.png" width="300"> | 🔷 [__Rohlik Orders Forecasting__](https://github.com/tzujohsu/Rohlik-Orders-Forecasting) <br><br> * This project aims to accurately predicting order volumes for Rohlik Group (e-grocery industry). It forecasts the number of grocery delivery orders for selected warehouses over a 60-day period. |
+| <img src="img/rossmann.png" width="300"> | 🔷 [__Rossmann Sales Data Prediction__](https://github.com/tzujohsu/Rossman-Sales-Data-Prediction) <br><br> * This project aims to forecast daily sales for Rossmann drug stores across Germany using historical sales, promotion, competitor data for 1,115 Rossmann stores store. |
 
 <h2 align = "center"> 👾 Miscellaneous </h2> 
 
