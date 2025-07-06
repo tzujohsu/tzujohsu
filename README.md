@@ -1,47 +1,29 @@
-## Hi there 👋 I'm Jocelyn (Tzu-Jo) Hsu
+# 👋 Hi there — I'm Jocelyn (Tzu-Jo) Hsu
 
-### About Me :
+I'm a data scientist and engineer with **2+ years of experience** across marketing tech and finance. 
 
-💼 I have *2+ years* experience in data and developer role across the marketing and finance sectors.
+I have **2+ years of experience** in data and developer roles across the marketing and finance sectors through internships and co-ops. These experiences pushed me to build robust, scalable solutions that bridge data, product thinking, and engineering. I constantly seek new challenges and opportunities to expand my expertise.
 
-I'm a self-motivated learner with a deep passion for data science and machine learning. I constantly seek out new challenges and opportunities to expand my expertise, whether through working on innovative projects💡, exploring the latest research📚, or mastering advanced tools and techniques 🛠️.
+## 🔍 Portfolio Overview
 
-### My Portfolio Overview:
-
-Here you'll find a collection of projects that reflect my journey and growth in various fields, including Predictive Modeling, Data Analysis, Natural Language Processing (NLP), Computer Vision (CV).
+This portfolio showcases selected projects across various domains: LLMs, NLP, CV, forecasting, analytics, and backend development.
 
 
-<h2 align = "center"> 🔮 My Generative AI/LLM Projects </h2> 
 
-| Project | Description |
-|---------|-------------|
-| <img src="img/fast-inference.png" width="300"> | 🔷 [__Fast Inference of LLMs via Speculative Decoding__](https://github.com/tzujohsu/LLM_speculative_decoding_evaluation) <br><br> * The original attention-based inference was inefficient; this project implements Speculative Decoding and Big Little Decoder (BiLD) algorithms to accelerate it. <br> * Conducted experimentations with different decoding approaches, demonstrating its efficacy across various models and size ranges in tasks like multi-turn conversation, translation, RAG, and question-answering (QA). |
-| <img src="img/finance-rag.png" width="300"> | 🚧 [__ChronoEvents: podcast-timeline-RAG (ongoing)__](https://jocelynhsu.streamlit.app/timeline) <br><br> * This side-project aims to build a Retrieval-Augmented Generation (RAG) system that utilizes transcriptions of podcast episodes to generate a timeline for any keywords. <br> * The goal is to provide users (ME!) with a valuable tool for knowledge extraction and insights. |
+## 🚀 Project Highlights
 
-<h2 align = "center"> 📄 My Natural Language Processing Projects </h2> 
-
-| Project | Description |
-|---------|-------------|
-| <img src="img/topic.png" width="350"> | 🔷 [__Multi-Label Content Categorization System__](https://jocelynhsu.streamlit.app/mlb-categorization) <br><br> * Trained and deployed a news categorization tool to enable reliable classification of the latest information. This tool can be extended to classify other content types, such as social media posts and podcast transcripts, enhancing predictive insights across platforms. |
-
-<h2 align = "center"> 🖥 My Computer Vision/Audio Projects </h2> 
-
-| Project | Description |
-|---------|-------------|
-| <img src="img/scene-text-recog.png" width="350"> | 🔷 [__Scene Text Recognition for Jersey Number Identification__](https://github.com/tzujohsu/soccernet-jersey-number-recognition) <br><br> * Jersey number recognition is crucial for enhancing sports analytics, aiding in accurate player tracking and identification. Challenges such as player occlusion, multiple players, and blurry images complicate this task. * Our approach utilizes a two-step method: (1) Using a detector to find jersey numbers, (2) A recognizer to accurately identify these numbers. |
-| <img src="img/audio-deepfake.png" width="350"> | 🔷 [__Audio Deepfake Detection with LCNN__](https://github.com/tzujohsu/audio-deepfake-detection) <br><br> * The misuse of the latest powerful generative algorithms poses a threat to individuals and society, as public opinion can be swayed through the spread of modified content, especially deepfaked audio. <br> * In this project, we developed a detection system using LCNN with self-Attentive Pooling layer to distinguish between bonafide and spoofed audio. |
-
-<h2 align = "center"> 📈 My Predictive Modeling/Forecasting Projects </h2> 
-
-| Project | Description |
-|---------|-------------|
-| <img src="img/rohlik.png" width="300"> | 🔷 [__Rohlik Orders Forecasting__](https://github.com/tzujohsu/Rohlik-Orders-Forecasting) <br><br> * This project aims to accurately predicting order volumes for Rohlik Group (e-grocery industry). It forecasts the number of grocery delivery orders for selected warehouses over a 60-day period. |
-| <img src="img/rossmann.png" width="300"> | 🔷 [__Rossmann Sales Data Prediction__](https://github.com/tzujohsu/Rossman-Sales-Data-Prediction) <br><br> * This project aims to forecast daily sales for Rossmann drug stores across Germany using historical sales, promotion, competitor data for 1,115 Rossmann stores store. |
-
-<h2 align = "center"> 👾 Miscellaneous </h2> 
-
-| Project | Description |
-|---------|-------------|
-| <img src="img/harddrive.png" width="300"> | 🔷 [__Survival analysis and lifespan modeling for Hard disk drives__](https://github.com/tzujohsu/backblaze-survival-analysis) <br><br> * Conducted survival analysis on the BackBlaze hard drive failure data from 2016-2023, identifying factors for failure risks. <br> * Employed Kaplan-Meier and Cox regression models to evaluate reliability across manufacturers and drive capacities.|
-| <img src="img/flight.png" width="300"> | 🔷 [__Exploratory Data Analysis on 2023 US domestic Flight statistics__](https://github.com/tzujohsu/commercial-air-travel-US-EDA) <br><br> * This report examines the primary factors behind flight delays and cancellations, as well as passenger, freight and mail traffic patterns in the US domestic flight sector for 2023. <br> * Through exploratory data analysis of US domestic flight data, the study identifies significant trends and provide insights for strategic decision-making.  |
-| <img src="img/sales.jpg" width="300"> | 🔷 [__Sales Analytics Dashboard__]([https://github.com/tzujohsu/commercial-air-travel-US-EDA](https://public.tableau.com/app/profile/tzu.jo.hsu/viz/Sales-Dashboard_17384750055410/OverviewDashboard)) <br><br> * Built to help businesses track performance, customer behavior, and shipping efficiency across multiple dimensions, it combines powerful filtering capabilities with intuitive visualizations. <br> * From high-level KPIs to detailed customer analytics, this dashboard delivers the key metrics business leaders need to make informed decisions. |
+| Tag | Project | Description |
+|-----|---------|-------------|
+| **LLM** | **Fast Inference of LLMs via Speculative Decoding** | Implemented Speculative Decoding and BiLD to accelerate Transformer inference. Benchmarked across models. |
+| **LLM** | **GPT-2 from Scratch (ongoing)** | Reproducing GPT-2 124M model from scratch to understand Transformer internals and training loops. |
+| **LLM / NLP** | **ChronoEvents: News Timeline Builder** | RAG system that transforms podcast transcripts into keyword-based event timelines. |
+| **LLM / Backend** | **MCP Server with Claude** | Server tool for real-time document retrieval via Claude and the Serper API. |
+| **NLP/ML** | **Multi-Label Content Categorization System** | Multi-label news categorization using NLP and ML - automatically classify news articles into 17 categories with a live demo and REST API. |
+| **Backend (JavaScript)** | **Subscription Management System** | Built a backend system with JWT auth, secure APIs, DB schema, and CI/CD integration. |
+| **Audio / CV** | **Audio Deepfake Detection with LCNN** | Built a deepfake audio detection system using LCNN with self-attentive pooling. |
+| **CV** | **Scene Text Recognition for Jersey Numbers** | Two-stage OCR pipeline to extract jersey numbers from blurry, occluded sports footage. |
+| **Forecasting / ML** | **Rohlik Orders Forecasting** | Multi-warehouse time series model to forecast 60-day order volume for e-grocery operations. |
+| **Forecasting / ML** | **Rossmann Sales Data Prediction** | Forecasted daily retail sales across 1000+ stores using time series regression models. |
+| **Analytics / ML** | **Survival Analysis of Hard Drive Lifespans** | Applied Kaplan-Meier and Cox PH models to BackBlaze data (2016–2023) to identify failure risks. |
+| **EDA** | **2023 US Domestic Flights** | Analyzed delay trends, airport traffic, and airline performance across the U.S. domestic market. |
+| **BI Dashboard** | **Sales Analytics Tableau Dashboard** | Designed an interactive Tableau dashboard to track business metrics like revenue and churn. |
