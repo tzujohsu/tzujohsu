@@ -1,7 +1,5 @@
 # 👋 Hi there — I'm Jocelyn (Tzu-Jo) Hsu
 
-I'm a data scientist and engineer with **2+ years of experience** across marketing tech and finance. 
-
 I have **2+ years of experience** in data and developer roles across the marketing and finance sectors through internships and co-ops. These experiences pushed me to build robust, scalable solutions that bridge data, product thinking, and engineering. I constantly seek new challenges and opportunities to expand my expertise.
 
 ## 🔍 Portfolio Overview
